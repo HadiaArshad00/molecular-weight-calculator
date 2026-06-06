@@ -1,22 +1,10 @@
 #  Molecular Weight Calculator
 
-A Python tool that calculates molecular weight from chemical formulas using a built-in atomic weights database.
+A Python script that calculates the molecular weight of a compound from its chemical formula.
 
-Built by a chemistry graduate learning to bridge wet-lab science with programming.
+##  How It Works
+- Input: Chemical formula (e.g. H2O, NaCl, C6H12O6)
+- Output: Molecular weight in g/mol
 
-
-
-# Features
-- Parses chemical formulas (H2O, C6H12O6, NaCl...)
-- Calculates molecular weight instantly in g/mol
-- Database of 15 common elements
-- Clean formatted output
-
-# Built With
+##  Language
 - Python 3
-- No installations needed
-
-# How to Run
-python mw_calculator.py
-
-#  Part of my journey bridging chemistry and data science.
